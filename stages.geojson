@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [9.68305349349976, 47.5445867539159]
+			},
+			"properties": {
+				"title": "Hotel Reutemann-Seegarten"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [9.627527, 48.561371]
+			},
+			"properties": {
+				"title": "Albhotel Malakoff"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [12.7912992238998, 47.3248578155057]
+			},
+			"properties": {
+				"title": "Hotel St. Georg"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [11.8016123771667, 46.2639692983797]
+			},
+			"properties": {
+				"title": "Hotel Colbricon Beauty & Relax"
+			}
+		}
+	]
+}
+
